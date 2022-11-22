@@ -15,44 +15,50 @@ Eksplorasi awal ke target features - Attrition, lalu eksplorasi ke kelompok nume
 ## FEATURE DESCRIPTIONS
 Education
 
-1 'Below College'
-2 'College'
-3 'Bachelor'
-4 'Master'
-5 'Doctor'
+1 'Below College'<br>
+2 'College'<br>
+3 'Bachelor'<br>
+4 'Master'<br>
+5 'Doctor'<br>
+
 EnvironmentSatisfaction
 
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
+1 'Low'<br>
+2 'Medium'<br>
+3 'High'<br>
+4 'Very High'<br>
+
 JobInvolvement
 
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
+1 'Low'<br>
+2 'Medium'<br>
+3 'High'<br>
+4 'Very High'<br>
+
 JobSatisfaction
 
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
+1 'Low'<br>
+2 'Medium'<br>
+3 'High'<br>
+4 'Very High'<br>
+
 PerformanceRating
 
-1 'Low'
-2 'Good'
-3 'Excellent'
-4 'Outstanding'
+1 'Low'<br>
+2 'Good'<br>
+3 'Excellent<br>'
+4 'Outstanding'<br>
+
 RelationshipSatisfaction
 
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
+1 'Low'<br>
+2 'Medium'<br>
+3 'High'<br>
+4 'Very High'<br>
+
 WorkLifeBalance
 
-1 'Bad'
-2 'Good'
-3 'Better'
-4 'Best'
+1 'Bad'<br>
+2 'Good'<br>
+3 'Better'<br>
+4 'Best'<br>
